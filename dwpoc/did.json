@@ -9,12 +9,12 @@
         }
       }
     ],
-    "id": "did:web:jobenland-deloitte.github.io:did-tester",
+    "id": "did:web:knichols12.github.io:dwpoc",
     "verificationMethod": [
       {
-        "id": "did:web:jobenland-deloitte.github.io:did-tester#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC",
+        "id": "did:web:knichols12.github.io:dwpoc#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC",
         "type": "Ed25519VerificationKey2018",
-        "controller": "did:web:jobenland-deloitte.github.io:did-tester",
+        "controller": "did:web:knichols12.github.io:dwpoc",
         "publicKeyJwk": {
           "kty": "OKP",
           "crv": "Ed25519",
@@ -23,9 +23,9 @@
       }
     ],
     "authentication": [
-      "did:web:jobenland-deloitte.github.io:did-tester#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC"
+      "did:web:knichols12.github.io:dwpoc#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC"
     ],
     "assertionMethod": [
-      "did:web:jobenland-deloitte.github.io:did-tester#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC"
+      "did:web:knichols12.github.io:dwpoc#z6MkmkvXxbYUPz4YPy1MiKcHsWEvy2WYKhvHXWMNpX8BBGeC"
     ]
   }
